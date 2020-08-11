@@ -1,3 +1,11 @@
+Front for Face Detector 3000 app.
+
+
+
+
+
+---CREATE REACT APP INFO BELOW---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
