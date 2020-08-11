@@ -1,5 +1,6 @@
 Front for Face Detector 3000 app.
 
+Backend for the project: https://github.com/TheBigLou/face-recognition-api
 
 
 
